@@ -4,5 +4,8 @@ I'm Deo, and this is my self-introduction for GitHub, I'm excited to share a lit
 ## About me
 I'm a student with a keen interest in technology such as AI, robotics, and design.
 
+### Projects
+I enjoy creating these projects, and I hope you will also enjoy using them.
+- Python-Projects
 ## Contacts
 - Email: deodeveloper@outlook.com
