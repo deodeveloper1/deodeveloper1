@@ -10,5 +10,3 @@ I enjoy creating these projects, and I hope you will also enjoy using them.
 
 ## Contacts
 - Email: deodeveloper@outlook.com
-
-# Fly me to the moon!
