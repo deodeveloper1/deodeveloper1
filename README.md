@@ -11,3 +11,4 @@ I enjoy creating these projects, and I hope you will also enjoy using them.
 
 ## Contacts
 - Email: deodeveloper@outlook.com
+- W3Shools: w3profile.com/deodeveloper
