@@ -6,7 +6,7 @@ I'm a student with a keen interest in technology such as AI, robotics, and desig
 
 ## Projects
 I enjoy creating these projects, and I hope you will also enjoy using them.
-- python-projects
+- [python-projects](https://github.com/deodeveloper1/python-projects)
 
 ## Contacts
 - Email: deodeveloper@outlook.com
